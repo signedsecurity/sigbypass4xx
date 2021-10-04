@@ -4,6 +4,8 @@
 
 sigbypass4xx is a utility to automate well-know techniques used to bypass access control restrictions.
 
+**This project has been merged into [sigurlscann3r](https://github.com/signedsecurity/sigurlscann3r), therefore, this repository won't be maintained**
+
 ## Resources
 
 * [Usage](#usage)
